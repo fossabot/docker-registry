@@ -2,6 +2,7 @@ Docker-Registry
 ===============
 
 [![Build Status](https://travis-ci.org/docker/docker-registry.png)](https://travis-ci.org/docker/docker-registry)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fwebitup%2Fdocker-registry.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fwebitup%2Fdocker-registry?ref=badge_shield)
 
 About this document
 ===================
@@ -498,3 +499,7 @@ Read CONTRIBUTE.md
 [SQLAlchemy]: http://docs.sqlalchemy.org/
 [create_engine]:
   http://docs.sqlalchemy.org/en/latest/core/engines.html#sqlalchemy.create_engine
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fwebitup%2Fdocker-registry.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fwebitup%2Fdocker-registry?ref=badge_large)
